@@ -1,0 +1,11 @@
+F:\coreApp\JwtWebAPI\JwtWebAPI\bin\Debug\netcoreapp2.0\JwtWebAPI.deps.json
+F:\coreApp\JwtWebAPI\JwtWebAPI\bin\Debug\netcoreapp2.0\JwtWebAPI.runtimeconfig.json
+F:\coreApp\JwtWebAPI\JwtWebAPI\bin\Debug\netcoreapp2.0\JwtWebAPI.runtimeconfig.dev.json
+F:\coreApp\JwtWebAPI\JwtWebAPI\bin\Debug\netcoreapp2.0\JwtWebAPI.dll
+F:\coreApp\JwtWebAPI\JwtWebAPI\bin\Debug\netcoreapp2.0\JwtWebAPI.pdb
+F:\coreApp\JwtWebAPI\JwtWebAPI\obj\Debug\netcoreapp2.0\JwtWebAPI.csprojResolveAssemblyReference.cache
+F:\coreApp\JwtWebAPI\JwtWebAPI\obj\Debug\netcoreapp2.0\JwtWebAPI.csproj.CoreCompileInputs.cache
+F:\coreApp\JwtWebAPI\JwtWebAPI\obj\Debug\netcoreapp2.0\JwtWebAPI.AssemblyInfoInputs.cache
+F:\coreApp\JwtWebAPI\JwtWebAPI\obj\Debug\netcoreapp2.0\JwtWebAPI.AssemblyInfo.cs
+F:\coreApp\JwtWebAPI\JwtWebAPI\obj\Debug\netcoreapp2.0\JwtWebAPI.dll
+F:\coreApp\JwtWebAPI\JwtWebAPI\obj\Debug\netcoreapp2.0\JwtWebAPI.pdb
